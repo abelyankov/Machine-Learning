@@ -1,5 +1,3 @@
 # Machine-Learning
 
-MACHINE LEARNING
-
 KBTU 2018
